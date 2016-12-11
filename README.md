@@ -1,24 +1,5 @@
-# README
+# rails5_test_2
+This is a test directory using Rails 5.0.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Ruby on Rails Tutorial
+http://railstutorial.jp/chapters/toy_app?version=5.0#cha-a_toy_app
